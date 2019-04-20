@@ -1,0 +1,5 @@
+---
+layout: maths
+---
+
+# Some examples ...
