@@ -10,3 +10,4 @@ This is a space for all note pages
 - [Clojure](clojure/)
 - [Javascript](javascript/)
 - [Networking](networking)
+- [Linux](linux)
