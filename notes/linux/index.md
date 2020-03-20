@@ -12,3 +12,4 @@ Linux notes
 - [Using **sudo**](sudo/)
 - [Host Key Fingerprints](host-keys/)
 - [IP Processing](ip-process/)
+- [Screen Brightness](screen-brightness/)
