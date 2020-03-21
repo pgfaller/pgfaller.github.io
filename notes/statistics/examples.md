@@ -1,5 +1,0 @@
----
-layout: maths
----
-
-# Some examples ...
