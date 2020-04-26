@@ -1,3 +1,4 @@
+![Jekyll site CI](https://github.com/pgfaller/pgfaller.github.io/workflows/Jekyll%20site%20CI/badge.svg)
 # Peter Faller's Blog Space
 
 This is a record of some of the things that I have come across while traversing the internet. It's
