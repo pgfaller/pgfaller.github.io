@@ -1,0 +1,3 @@
+JavaScript - the language
+
+JavaScript - the VisualBasic for the 21st century. Initially aimed at making web pages interactive, now being used far and wide on the server side too (via NodeJS). A dreadful mistake, really ...
